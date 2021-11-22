@@ -1,3 +1,13 @@
 # REQUIREMENTS
 ## Introduction
+   The phonebook application works specifically for tracking people. The Phonebook application contains a set of basic functions for adding, searching, updating, and deleting new contacts. This mini-C phonebook design allows you to perform simple tasks in your phonebook, such as mobile phones.
+## Research
+   This application provides information on adding, viewing, modifying, receiving, and deleting data from/to files. When you add anything to your phone book, you will be asked for personal information such as name, gender, blood group, first name, phone number, nationality, email address, and address. You can then edit, view, search, and delete this text.
+## Features
+  Adding new items, viewing them by logging in, editing and updating, searching for saved contacts and deleting data in the phonebook is one of the main features of the main phonebook application
+## Defining our system
+  Personal information such as name, gender, blood group, first name, phone number, nationality, email address and address are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed.
+## SWOT analysis
+
+## 4W'S and 1H
 
