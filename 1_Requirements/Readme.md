@@ -6,7 +6,8 @@
 
 ## Research
 ![Description](Link to Pic)
-    --When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
+  
+     --When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
 -- Content 
@@ -25,7 +26,7 @@
 
 ## What:
 
-**It is very useful now a days to store complete information under single contact number. **
+**It is very useful now a days to store complete information under single contact number.**
 
 ## When:
 
@@ -33,7 +34,7 @@
 
 ## Where:
 
-**It used anywhere **
+**It used anywhere.**
 
 ## How:
 
