@@ -29,23 +29,23 @@
 
 ## Who:
 
-**User provides given information to store that application.**
+ User provides given information to store that application.
 
 ## What:
 
-**It is very useful now a days to store complete information under single contact number.**
+ It is very useful now a days to store complete information under single contact number.
 
 ## When:
 
-**It works specifically for easily contacting people whenever any need occurs.**
+  It works specifically for easily contacting people whenever any need occurs.
 
 ## Where:
 
-**We will implement the application in the world wide users.**
+  We will implement the application in the world wide users.
 
 ## How:
 
-**TBD**
+ The contact is saved,if the user done step by step process of application.
 
 # Detail requirements
 ## High Level Requirements:
