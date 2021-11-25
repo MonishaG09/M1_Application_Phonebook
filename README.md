@@ -1,7 +1,4 @@
 # M1_Application_Phonebook
-
-
-![Build_linux](https://github.com/MonishaG09/M1_Application_Phonebook/actions/workflows/Build_linux.yml/badge.svg)
 ![Build_Linux](https://github.com/MonishaG09/M1_Application_Phonebook/actions/workflows/Build_Linux.yml/badge.svg)
 ![Build_Windows](https://github.com/MonishaG09/M1_Application_Phonebook/actions/workflows/Build_Windows.yml/badge.svg)
 
