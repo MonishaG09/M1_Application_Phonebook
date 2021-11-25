@@ -48,7 +48,7 @@
  The contact is saved,if the user done step by step process of application.
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
  | ID   | Description                                          | Category       | Status      |
 | ---- | ---------------------------------------------------- | -------------- | ----------- |
 | HR01 | User shall be able to add new contact                | Functional     | In Progress |
@@ -61,7 +61,7 @@
 | HR08 | When closing the system data should always be stored | Non-Functional | In Progress |
 
 
-##  Low level Requirements:
+##  Low level Requirements
 
 | ID   | Description                                                                                                                                                                         | HLR ID                 | Status (Implemented/In Progress) |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------- |
@@ -92,7 +92,7 @@ Structural and Behavioural Diagram
 
 
 # TestPlan And Output
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 | **Test ID**| **Description** |**Expected Output** | **Actual Output** | **Pass/fail(Result)**
