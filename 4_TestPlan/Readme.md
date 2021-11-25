@@ -1,4 +1,4 @@
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 | **Test ID**| **Description** |**Expected Output** | **Actual Output** | **Pass/fail(Result)**
