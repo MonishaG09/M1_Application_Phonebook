@@ -57,7 +57,6 @@
 | HR08 | When closing the system data should always be stored | Non-Functional | In Progress |
 
 ##  Low level Requirements
-
 | ID   | Description                                                                                                                                                                         | HLR ID                 | Status (Implemented/In Progress) |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------- |
 | LR01 | (1). New contact shall be added by providing all the information (2). contact name should be unique or else it should not be accepted.   
