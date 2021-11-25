@@ -1,7 +1,6 @@
 # Design
 
 ## High Level Design 
-
  Structural and Behavioural Diagram
 ![image](https://user-images.githubusercontent.com/94268410/143029406-c255ceb9-9cf5-4648-84e1-e7697a4580fd.png)
 
