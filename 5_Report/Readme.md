@@ -24,9 +24,6 @@
 ## SWOT ANALYSIS
 ![SWOT analysis](https://user-images.githubusercontent.com/94268410/143008566-985d8d82-2850-49df-8630-4cf435ae96b1.png)
 
-
-# 4W&#39;s and 1&#39;H
-
 ## Who
 
  User provides given information to store that application.
@@ -47,7 +44,6 @@
 
  The contact is saved,if the user done step by step process of application.
 
-# Detail requirements
 ## High Level Requirements
  | ID   | Description                                          | Category       | Status      |
 | ---- | ---------------------------------------------------- | -------------- | ----------- |
@@ -89,9 +85,6 @@ Structural and Behavioural Diagram
 ## Low Level Design
 ![Image](https://user-images.githubusercontent.com/94268410/143188931-c72a3658-a499-40ab-b636-e684d98cc258.png)
 
-
-
-# TestPlan And Output
 # TEST PLAN
 
 ## Table no: High level test plan
