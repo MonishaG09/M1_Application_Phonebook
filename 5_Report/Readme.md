@@ -6,16 +6,7 @@
   * Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application.
 * When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
 ## Features 
-  Phonebook application have feautures like
-  * Name
-  * Gender
-  * First name
-  * Phone number
-  * Natonality 
-  * Email address
-  * Address
-  * Blood group
-  *  Date of birth
+  Phonebook application have feautures like Name,Gender,First name,Email address,Address,Blood group and Date of Birth.
    
 ## Defining Our System
   This application provides information on adding, viewing, modifying, receiving, and deleting data from/to files. Adding new entries, browsing them, editing and updating, searching for saved contacts, and deleting contacts in the phonebook is one of the most important services that become the main menu in the phonebook application. When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address. You can then edit, view, search, and delete this text.
