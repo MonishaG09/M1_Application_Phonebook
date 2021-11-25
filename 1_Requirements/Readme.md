@@ -45,7 +45,6 @@
 | HR06 | User shall be able to read contact from user         | Functional     | In Progress |
 | HR07 | Data should not be lost if any failure               | Non-Functional | In Progress |
 | HR08 | When closing the system data should always be stored | Non-Functional | In Progress |
-
 ##  Low level Requirements
 | ID   | Description                                                                                                                                                                         | HLR ID                 | Status (Implemented/In Progress) |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------- |
