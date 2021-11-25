@@ -1,10 +1,10 @@
 # Requirements
 ## Introduction
-* Phonebook is a very simple mini project in C that can help you understand the basic concepts of functions, file handling and data structure. This application will teach you how to add, list, modify or edit, search and delete data to/from the file.
+  * Phonebook is a very simple mini project in C that can help you understand the basic concepts of functions, file handling and data structure. This application will teach you how to add, list, modify or edit, search and delete data to/from the file.
 
 ## Research
   * Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application.
-* When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
+  * When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
 ## Features 
   Phonebook application have feautures like Name,Gender,First name,Email address,Address,Blood group and Date of Birth.
    
@@ -45,7 +45,6 @@
 | HR06 | User shall be able to read contact from user         | Functional     | In Progress |
 | HR07 | Data should not be lost if any failure               | Non-Functional | In Progress |
 | HR08 | When closing the system data should always be stored | Non-Functional | In Progress |
-
 ##  Low level Requirements
 
 | ID   | Description                                                                                                                                                                         | HLR ID                 | Status (Implemented/In Progress) |
