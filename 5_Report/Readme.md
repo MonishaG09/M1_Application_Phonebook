@@ -56,7 +56,6 @@
 | HR07 | Data should not be lost if any failure               | Non-Functional | In Progress |
 | HR08 | When closing the system data should always be stored | Non-Functional | In Progress |
 
-
 ##  Low level Requirements
 
 | ID   | Description                                                                                                                                                                         | HLR ID                 | Status (Implemented/In Progress) |
@@ -65,9 +64,6 @@
 | HR01                   | In Progress                      |
 | LR02 | contact person data should be possible  (1). first being by searching the name of person                                     | HR02                   | In Progress                      |
 | LR03 | While searching all the contact, all should be visible if user wants to see more                                                          | HR02                   | In Progress                      |
-
-
-
 
 # Design
 
