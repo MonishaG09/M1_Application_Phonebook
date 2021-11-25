@@ -6,11 +6,11 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/phonebook_operations.c
+src/phonebook.c
 
 # All test source files
-TEST_SRC = src/phonebook_operations.c\
-test/test_phonebook_operations.c\
+TEST_SRC = src/phonebook.c\
+test/phonebook.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
