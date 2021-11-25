@@ -3,23 +3,22 @@
 * Phonebook is a very simple mini project in C that can help you understand the basic concepts of functions, file handling and data structure. This application will teach you how to add, list, modify or edit, search and delete data to/from the file.
 
 ## Research
-* Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application.
+  * Adding new records, listing them, modifying them and updating, search for contacts saved, and deleting the phonebook records are the basic functions which make up the main menu of this Phonebook application.
 * When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address.The research of this project is to add new feature such as blood group and date of birth.The new one is very helpful for emergency time who needs which type of blood group and check is the age limit is matched for donating. 
 ## Features 
   Phonebook application have feautures like
-   * Name
-   * Gender
-   * First name
-   * Phone number
-   * Natonality 
-   * Email address
-   * Address
-   * Blood group
-   * Date of birth
+  * Name
+  * Gender
+  * First name
+  * Phone number
+  * Natonality 
+  * Email address
+  * Address
+  * Blood group
+  *  Date of birth
    
 ## Defining Our System
   This application provides information on adding, viewing, modifying, receiving, and deleting data from/to files. Adding new entries, browsing them, editing and updating, searching for saved contacts, and deleting contacts in the phonebook is one of the most important services that become the main menu in the phonebook application. When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address. You can then edit, view, search, and delete this text.
-
 
 ## SWOT ANALYSIS
 ![SWOT analysis](https://user-images.githubusercontent.com/94268410/143008566-985d8d82-2850-49df-8630-4cf435ae96b1.png)
@@ -74,15 +73,12 @@
 
  ![image](https://user-images.githubusercontent.com/94268410/143030428-9d27bb24-a819-4db0-9231-55e48aa0eee6.png)
 
-
-Structural and Behavioural Diagram
 ![Image](https://user-images.githubusercontent.com/94268410/143034091-8d8aae10-68ac-447e-beb2-4d53e8720164.png)
 
 ## Low Level Design
 ![Image](https://user-images.githubusercontent.com/94268410/143188931-c72a3658-a499-40ab-b636-e684d98cc258.png)
 
 # TEST PLAN
-
 ## Table no: High level test plan
 | **Test ID**| **Description** |**Expected Output** | **Actual Output** | **Pass/fail(Result)**
 |--|--|--|--|--|
